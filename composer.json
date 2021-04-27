@@ -1,0 +1,7 @@
+{
+    "name": "frieglerixo/test",
+    "license": "MIT",
+    "type": "project",
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
